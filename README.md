@@ -1,4 +1,4 @@
-# FacialRecognitionProjects
+# Face Tracking/Recognition
 playing with opencv and machine learning in python
 
 
